@@ -5,7 +5,7 @@ This program, hinted at by the name "Cole PPalmer" (C++), involves C++ binary da
 
 Why <bitset>?
 
-Allows easy binary representation of numbers (e.g., std::bitset<8>(42) converts 42 to 00101010).
+Allows easy binary representation of numbers (e.g., bitset<8>(42) converts 42 to 00101010).
 
 Supports bitwise operations (AND, OR, XOR, shifts) in a readable way.
 
