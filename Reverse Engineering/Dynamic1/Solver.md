@@ -18,7 +18,7 @@ Compute faza("DolmaDessertDuckCouscousCakeC") to get "D21C".
 
 How D21C :
 
-faza() : return ch["0"]+len(ch)-CountWays(5)+ch[len -1 ]
+faza() : return ch["0"]+len(ch)-CountWays(5)+ch[len -1 ]='D'+29-8+'C'
 
 Compute cha9an(10) to get "0011247132444".
 
