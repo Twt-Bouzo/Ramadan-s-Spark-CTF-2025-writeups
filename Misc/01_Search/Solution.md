@@ -3,8 +3,8 @@
 
 The program generates a random table of numbers, asks the user to solve a series of binary search challenges, and then requires the user to create their own table with specific constraints. Here's a detailed breakdown of the task:
 
+![image](https://github.com/user-attachments/assets/5e2cddc4-c4ea-4a89-bb59-3d9b2eaa976f)
 
-![image](https://github.com/user-attachments/assets/cce29817-4855-42a1-950a-c3541627dae1)
 
 FLAG : Spark{B1n4ry_S34rch_4lg0}
 
