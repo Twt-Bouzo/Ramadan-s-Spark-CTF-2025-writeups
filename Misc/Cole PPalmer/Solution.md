@@ -17,7 +17,8 @@ Here is some functions :
 
 NOW THE SOLVER :
 
-![image](https://github.com/user-attachments/assets/aa655a23-abfa-4b4a-851b-c56c821983f5)
+![image](https://github.com/user-attachments/assets/fee0897d-3f85-4843-aa4a-565ab0a033a3)
+
 
 
 ![image](https://github.com/user-attachments/assets/32fb6bd1-9c94-4c14-a254-9c18e190ddcb)
