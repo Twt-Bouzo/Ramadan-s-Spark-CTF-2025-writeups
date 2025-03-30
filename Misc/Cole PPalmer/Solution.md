@@ -19,9 +19,12 @@ NOW THE SOLVER :
 
 ![image](https://github.com/user-attachments/assets/aa655a23-abfa-4b4a-851b-c56c821983f5)
 
-![image](https://github.com/user-attachments/assets/90f1e767-8a16-4151-9114-cd5869128bca)
 
-![image](https://github.com/user-attachments/assets/923369dd-5276-44e9-9176-21c483cd65f3)
+![image](https://github.com/user-attachments/assets/32fb6bd1-9c94-4c14-a254-9c18e190ddcb)
+
+
+![image](https://github.com/user-attachments/assets/97bff8bc-5809-4e2c-a874-708edde6a880)
+
 
 Flag: Spark{1_L0ve_B1t_S3t_C++}
 
